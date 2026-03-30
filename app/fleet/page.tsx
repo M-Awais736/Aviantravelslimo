@@ -13,7 +13,7 @@ export default function FleetPage() {
             description: "Fully Equipped. Best for VIPs the ultimate in luxury Sedans. Hourly and Daily hire available. Comfort and Luxury.",
             passengers: 3,
             luggage: 2,
-            image: "/images/luxury-sedan.jpeg"
+            image: "/images/luxury-sedan.jpg"
         },        
         {
             name: "Luxury SUV",
@@ -45,7 +45,7 @@ export default function FleetPage() {
             description: "Fully Equipped. Mercedes Benz Sprinter available in 3 types Van, Executive and Limo Lounge. Hourly and Daily hire available. Comfort and Luxury.",
             passengers: 14,
             luggage: 10,
-            image: "/images/sprinter-van.jpeg"
+            image: "/images/sprinter-van.jpg"
         }
     ];
 
