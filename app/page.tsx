@@ -6,6 +6,14 @@ import { Plane, Briefcase, Users, Map, GlassWater, ArrowRight } from "lucide-rea
 export default function Home() {
   const featuredFleet = [
     {
+      name: "Luxury Sedans",
+      category: "Sedan",
+      description: "Fully Equipped. Best for VIPs the ultimate in luxury Sedans. Hourly and Daily hire available. Comfort and Luxury.",
+      passengers: 3,
+      luggage: 2,
+      image: "/images/luxury-sedan.jpg"
+    }, 
+    {
       name: "Luxury SUV",
       category: "1-7 PASSENGERS",
       description: "Our large luxury SUVs offer 7 passenger seating, plus features like a flat-screen monitor, special lighting, leather seats, and a sunroof.",
@@ -28,6 +36,14 @@ export default function Home() {
       passengers: 56,
       luggage: 50,
       image: "/images/coach.jpg"
+    },
+    {
+      name: "Mercedes Benz Sprinter Van",
+      category: "VAN",
+      description: "Fully Equipped. Mercedes Benz Sprinter available in 3 types Van, Executive and Limo Lounge. Hourly and Daily hire available. Comfort and Luxury.",
+      passengers: 14,
+      luggage: 10,
+      image: "/images/sprinter-van.jpg"
     }
   ];
 
