@@ -13,7 +13,7 @@ export default function FleetPage() {
             description: "Fully Equipped. Best for VIPs the ultimate in luxury Sedans. Hourly and Daily hire available. Comfort and Luxury.",
             passengers: 3,
             luggage: 2,
-            image: "/images/luxury sedan.jpg"
+            image: "/images/luxury-sedan.jpg"
         },        
         {
             name: "Luxury SUV",
