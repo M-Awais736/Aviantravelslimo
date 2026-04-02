@@ -32,6 +32,22 @@ export default function FleetPage() {
             image: "/images/limousine.jpg"
         },
         {
+            name: "Mercedes Benz Sprinter Van",
+            category: "VAN",
+            description: "Fully Equipped. Mercedes Benz Sprinter available in 3 types Van, Executive and Limo Lounge. Hourly and Daily hire available. Comfort and Luxury.",
+            passengers: 14,
+            luggage: 10,
+            image: "/images/sprinter-van.jpg"
+        },
+        {
+            name: "Mini Bus",
+            category: "VAN",
+            description: "First-class Transportation for medium group traveller, comfortable with high reclining back and armrests.",
+            passengers: 37,
+            luggage: 30,
+            image: "/images/mini-bus.jpeg"
+        },
+        {
             name: "Coach",
             category: "Coach",
             description: "The ultimate solution for large group travel. Equipped with restroom, entertainment systems, and reclining seats.",
@@ -40,12 +56,12 @@ export default function FleetPage() {
             image: "/images/coach.jpg"
         },
         {
-            name: "Mercedes Benz Sprinter Van",
-            category: "VAN",
-            description: "Fully Equipped. Mercedes Benz Sprinter available in 3 types Van, Executive and Limo Lounge. Hourly and Daily hire available. Comfort and Luxury.",
-            passengers: 14,
-            luggage: 10,
-            image: "/images/sprinter-van.jpg"
+            name: "Coach Bus with ADS Option",
+            category: "57 PASSENGER",
+            description: "Full-size luxury coaches for up to 57 passengers and luggage. All vehicles are equipped with cellular phones, tinted windows, and a television unit.",
+            passengers: 57,
+            luggage: 50,
+            image: "/images/coach-bus-with-ads.jpeg"
         }
     ];
 
