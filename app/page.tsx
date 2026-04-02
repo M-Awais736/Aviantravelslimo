@@ -123,10 +123,10 @@ export default function Home() {
               Avian Travels Limo
             </h2>
             <h3 className="text-lg md:text-xl text-white/80 font-medium mb-6 md:mb-8">
-              Luxury Service in Springfield, Virginia
+              Luxury Service in Washington, DC
             </h3>
             <p className="text-sm md:text-base lg:text-lg text-white/60 leading-relaxed mb-8 md:mb-12">
-              There are many ways to get from point A to B. But what about one that gives some gravitas? We go above and beyond the rideshare programs and traditional taxi services. Preserve your time and attention with our professional chauffeur and Limo Service in Springfield, Virginia. We are committed to providing an exceptional transportation service that others simply cannot provide. Avian Travels Limo is an established leader in specialty transportation. We can guarantee you a safe, affluent, and discreet ride aboard our luxury vehicles.
+              There are many ways to get from point A to B. But what about one that gives some gravitas? We go above and beyond the rideshare programs and traditional taxi services. Preserve your time and attention with our professional chauffeur and Limo Service in Washington, DC. We are committed to providing an exceptional transportation service that others simply cannot provide. Avian Travels Limo is an established leader in specialty transportation. We can guarantee you a safe, affluent, and discreet ride aboard our luxury vehicles.
             </p>
             <Link href="/about" className="inline-block px-6 md:px-8 py-2.5 md:py-3 bg-white/10 text-white font-semibold text-sm md:text-base uppercase tracking-wide hover:bg-gold hover:text-black transition-colors rounded-sm">
               Learn More About Us
